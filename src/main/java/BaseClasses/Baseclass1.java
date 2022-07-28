@@ -16,9 +16,7 @@ import UtulityClasses.UtilityClass1;
 public class Baseclass1 extends UtilityClass1 {
 
 static WebDriver driver = null;
-
 static ExtentHtmlReporter extentReporter;
-
 static ExtentReports report;
 static ExtentTest test;
 	
